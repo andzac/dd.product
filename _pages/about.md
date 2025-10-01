@@ -9,9 +9,15 @@ redirect_from:
 
 Welcome dear visitor in my product-oriented cozy place.
 
-As you can see, the space is still under construction, some sections are empty, some of them have some dummy data.
+Why am I building this space?
+Because I believe in sharing the journey. 
 
-As every digital product, it will evolve and adapt to the needs of the community of people that may find this place useful.
-On the left side you can find some nice ways to stay in touch.
+After many years as a software developer, I stepped into product development — driven by the same obsession I’ve always had: improving people’s lives through technology. 
+
+This site is my way of giving back to the community, sharing perspectives, learnings, and reflections from both worlds.
+
+You’ll notice things are still under construction. Some pages are empty, others hold placeholder content. That’s intentional. Just like any digital product, this site will evolve based on feedback and the needs of the surrounding community.
+
+If you find value here, I’d love to stay connected — you’ll find ways to reach me in the links on the left.
 
 Thanks.
